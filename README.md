@@ -1,2 +1,2 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36f723&lines=$+Hello+everyone!)](https://git.io/typing-svg)
-![trophy](https://github-profile-trophy.vercel.app/?username=N1ckhack&title=Commit,Stars,Followers,Repositories&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ckhack&show_icons=true&theme=radical)
