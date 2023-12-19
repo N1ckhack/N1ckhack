@@ -7,7 +7,7 @@
 The developer does not bear any responsibility for the consequences of using these programs in your projects or the misuse of programs in order to violate the current legislation of any country in the world and international law.
 
 # About Me
-![picture](https://i.gifer.com/X0AW.gif)
+![picture](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8b7a2347393655.58823b47daed0.gif)
 
 
 Hello everyone, I'm from Russia. It's cold here sometimes, but it's very cool. I am an information security student and my specialty is closely related to cybersecurity, digital forensics and secure development. Therefore, I decided to start GitHub in order to organize and share my projects to help my colleagues in the field.
