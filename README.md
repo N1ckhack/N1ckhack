@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36f723&lines=$+Hello+everyone!)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ckhack&theme=onedark)
+[//]: # (![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ckhack&theme=onedark))
 ## Disclamer
 > All software provided on this page is provided solely for scientific and/or educational purposes.
 The developer does not bear any responsibility for the consequences of using these programs in your projects or the misuse of programs in order to violate the current legislation of any country in the world and international law.
