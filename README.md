@@ -8,8 +8,6 @@ The developer does not bear any responsibility for the consequences of using the
 
 # About Me
 ![picture](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/8b7a2347393655.58823b47daed0.gif)
-
-
 Hello everyone, I'm from Russia. It's cold here sometimes, but it's very cool. I am an information security student and my specialty is closely related to cybersecurity, digital forensics and secure development. Therefore, I decided to start GitHub in order to organize and share my projects to help my colleagues in the field.
 I am a big fan of the hacker subculture, so I also develop and research programs for ethical hacking, as well as various malware and reverse shells. All this is done exclusively for educational purposes and is operated on isolated virtual machines in order to analyze the consequences and damage to the infrastructure.
 >In addition to the above, I am a member of the university's CTF competition team. Accordingly, the specifics of these competitions can often be related to my projects.
