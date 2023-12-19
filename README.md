@@ -15,11 +15,11 @@ I am a big fan of the hacker subculture, so I also develop and research programs
 
 I hope that the code that you will find in my profile will make your studies easier and you will understand certain aspects of information security much better. This will help you on the path to the truth and will also boost your brain and skills.
 
-# Languages
+## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# IDE's
+## IDE's
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-# Social
+## Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n1ck_dv) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/n1ck_dv/)
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Comeback%20and%20put%20up%20the%20stars!&fontSize=30&animation=twinkling)
