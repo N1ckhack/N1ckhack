@@ -7,7 +7,7 @@
 The developer does not bear any responsibility for the consequences of using these programs in your projects or the misuse of programs in order to violate the current legislation of any country in the world and international law.
 
 # About Me
-![picture](https://avatanplus.com/files/resources/original/575e7cc7ee26315549176d27.png)
+![picture](https://cdn-icons-png.flaticon.com/512/1995/1995515.png)
 
 Hello everyone, I'm from Russia. It's cold here sometimes, but it's very cool. I am an information security student and my specialty is closely related to cybersecurity, digital forensics and secure development. Therefore, I decided to start GitHub in order to organize and share my projects to help my colleagues in the field.
 I am a big fan of the hacker subculture, so I also develop and research programs for ethical hacking, as well as various malware and reverse shells. All this is done exclusively for educational purposes and is operated on isolated virtual machines in order to analyze the consequences and damage to the infrastructure.
