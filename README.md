@@ -10,7 +10,8 @@ Hello everyone, I'm from Russia. It's cold here sometimes, but it's very cool. I
 >In addition to the above, I am a member of the university's CTF competition team. Accordingly, the specifics of these competitions can often be related to my projects.
 
 I hope that the code that you will find in my profile will make your studies easier and you will understand certain aspects of information security much better. This will help you on the path to the truth and will also boost your brain and skills.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1ckhack&layout=compact&theme=drak&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1ckhack&show_icons=true&theme=dark)
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ## IDE's
