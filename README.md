@@ -4,7 +4,7 @@
 The developer does not bear any responsibility for the consequences of using these programs in your projects or the misuse of programs in order to violate the current legislation of any country in the world and international law.
 
 # About Me
-![picture](https://www.pngjoy.com/pngl/344/17596095_greatsword-great-sword-promo-transparent-png.png)
+![pic](https://dystopia.me/wp-content/uploads/rutger-van-de-steeg-city-overview.jpg)
 
 Hello everyone, I'm from Russia. It's cold here sometimes, but it's very cool. I am an information security student and my specialty is closely related to cybersecurity, digital forensics and secure development. Therefore, I decided to start GitHub in order to organize and share my projects to help my colleagues in the field.
 I am a big fan of the hacker subculture, so I also develop and research programs for ethical hacking, as well as various malware and reverse shells. All this is done exclusively for educational purposes and is operated on isolated virtual machines in order to analyze the consequences and damage to the infrastructure.
@@ -19,4 +19,3 @@ I hope that the code that you will find in my profile will make your studies eas
 ## Social
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n1ck_dv) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/n1ck_dv/)
 
-![pic](https://dystopia.me/wp-content/uploads/rutger-van-de-steeg-city-overview.jpg)
