@@ -4,7 +4,7 @@
 The developer does not bear any responsibility for the consequences of using these programs in your projects or the misuse of programs in order to violate the current legislation of any country in the world and international law.
 
 # About Me
-![pic](https://dystopia.me/wp-content/uploads/rutger-van-de-steeg-city-overview.jpg)
+![pic](https://www.pngplay.com/wp-content/uploads/12/Witcher-Transparent-Background.png)
 
 Hello everyone, I'm from Russia. It's cold here sometimes, but it's very cool. I am an information security student and my specialty is closely related to cybersecurity, digital forensics and secure development. Therefore, I decided to start GitHub in order to organize and share my projects to help my colleagues in the field.
 >In addition to the above, I am a member of the university's CTF competition team. Accordingly, the specifics of these competitions can often be related to my projects.
